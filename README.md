@@ -1,24 +1,5 @@
-# women
+# Period Tracker
 
-## Project setup
-```
-npm install
-```
+A vuejs web app to track the menstral cycle of women
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
